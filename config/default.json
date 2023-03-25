@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://ishan:Ishan3410@cluster0.ijioobb.mongodb.net/test",
+  "db": "mongodb+srv://ishan:Ishan3410@cluster0.ijioobb.mongodb.net/test?authSource=admin",
   "port": "3900",
   "requiresAuth": true
 }
